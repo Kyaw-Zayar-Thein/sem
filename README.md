@@ -7,4 +7,6 @@ hey
 [![Releases](https://img.shields.io/github/release/Kyaw-Zayar-Thein/sem/all.svg?style=flat-square)](https://github.com/Kyaw-Zayar-Thein/sem/releases)
 
 # DevOps
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/Kyaw-Zayar-Thein/sem/main.yml/develop?style=flat-square)
+![GitHub Workflow Status (develop)](
+https://img.shields.io/github/actions/workflow/status/Kyaw-Zayar-Thein/sem/main.yml?branch=develop&style=flat-square
+)
